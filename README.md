@@ -37,9 +37,11 @@ If you are one of the many developers with a strong preference, know that virtua
 * Clone the repository:
     $ git clone https://github.com/nodegui/react-nodegui-starter
 * Go into the repository:
-    $ cd react-nodegui-starter
+    $ cd demo-app
 * Install dependencies *(This will install the latest updates from NodeGUI)*:
     $ npm i http://master-release.nodegui.org
+* Install Sass stying dependencies: 
+    $ npm install node-sass
 * Run the dev server:
     $ npm run dev
 * Run the app on a separate terminal tab or window:
