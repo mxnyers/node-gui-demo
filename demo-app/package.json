@@ -12,6 +12,7 @@
     "debug": "qode --inspect ./dist/index.js"
   },
   "dependencies": {
+    "@nodegui/nodegui": "http://master-release.nodegui.org",
     "@nodegui/react-nodegui": "^0.10.2",
     "open": "^7.2.1",
     "react": "^16.13.1"
